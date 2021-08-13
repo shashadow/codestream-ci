@@ -1,5 +1,5 @@
 FROM centos:centos7
-LABEL maintainer="smcgeown@vmware.com"
+LABEL maintainer="administrator@konyxia.com"
 
 ADD ca-trust /etc/pki/ca-trust/source/anchors/
 ADD VERSION .
